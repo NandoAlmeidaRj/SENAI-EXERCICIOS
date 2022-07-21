@@ -6,7 +6,8 @@ function imc(){
     if(resultado > 25 ){
         document.getElementById("dados").innerHTML = `Seu IMC é ${resultado} <br> Você está acima do peso, procure um médico`
     }
-    else if(resultado < 24,90  >18 ){
+    else if
+    (resultado < 24,90  >18 ){
         ocument.getElementById("dados1").innerHTML = `Seu IMC é ${resultado} <br> PARABÉNS!! Você está no peso ideal` }
 
         if(resultado < 18,00){
