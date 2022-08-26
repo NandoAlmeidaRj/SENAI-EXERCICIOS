@@ -1,0 +1,50 @@
+
+.sec1{
+    background-image: radial-gradient(circle at -10.78% 27.88%, #ffb629 0, #ffa537 10%, #ff9243 20%, #ff7e4b 30%, #ff6951 40%, #f25353 50%, #d93f53 60%, #c22f54 70%, #ad2355 80%, #9b1b56 90%, #8c1859 100%);
+    display: grid;
+    place-items: center;
+}
+
+.estilo{
+    padding: 2vh;
+    width: 50vh;
+    border: solid;
+    margin: 30px;
+    font-size: 25px;
+    text-align: center; 
+    display: flex;
+    background-color:rgba(255, 255, 255, 0.473);
+}
+
+.foto{
+    margin-left: 25px;
+    display: block;
+    width: 140px;
+    border-radius: 100px;
+    position:absolute;
+    
+}
+
+p{
+    
+    margin-top: -10px;
+}
+
+.p1{
+    font-family: Impact;
+}
+
+.sec{
+ 
+    margin-top: 50px;
+    margin-left:90px;
+}
+
+.on{
+    position: relative;
+    position: absolute;
+    margin-top: 85px;
+    margin-left:140px ;
+    width: 1cm;
+    height: 1cm;
+}

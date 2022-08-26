@@ -3,7 +3,7 @@ import React, { Fragment } from "react";
 const Bot = (props) => {
 return(
   <section>
-      <button style={{backgroundColor: "red", margin: "300px"}} > {props.titulo}</button>
+      <button style={{backgroundColor: "red", margin: "100px"}} > {props.titulo}</button>
     </section>
 )
 }
