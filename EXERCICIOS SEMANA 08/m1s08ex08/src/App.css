@@ -7,7 +7,9 @@
 
 .estilo{
     padding: 2vh;
-    width: 50vh;
+    max-width: 100px; 
+    max-width: 90vh;
+    width: 90vh;
     border: solid;
     margin: 30px;
     font-size: 25px;
@@ -24,6 +26,15 @@
     position:absolute;
     
 }
+.foto1{
+    margin-left: 25px;
+    position:absolute;
+    height: 140px;
+    width: 140px;
+    border-radius: 200px;
+}
+
+
 
 p{
     

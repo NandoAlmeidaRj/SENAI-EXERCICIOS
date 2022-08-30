@@ -4,10 +4,10 @@ import './App.css'
 function App(props) {
   return (
     <div >
-      <Contato foto={<img className='foto' src='Max.webp'/>} online={<img className='on' src='pngwing.com.png'/>} nome="Maxine " descrição=" Sadie Sink"></Contato>
-      <Contato foto={<img className='foto' src='Steve.jpg'/>} online={<img className='on' src='pngwing.com.png'/>}  nome="Steve" descrição="Joe Keery"></Contato>
-      <Contato foto={<img className='foto' src='Eleven.png'/>} online={<img className='on' src='pngwing.com.png'/>}  nome="Eleven" descrição="Millie Bobby "></Contato>
-      <Contato foto={<img className='foto' src='justin.jfif'/>} online={<img className='on' src='pngwing.com.png'/>}  nome="Dustin" descrição="Gaten Matarazzo"></Contato>
+      <Contato foto={<img className='foto' src='Max.webp'/>} online={<img className='on' src='pngwing.com.png'/>} nome="Maxine " descrição="Deu ruim, to lascada..."></Contato>
+      <Contato foto={<img className='foto1' src='vecsorrindo.jpeg'/>} online={<img className='on' src='pngwing.com.png'/>}  nome="Vecna" descrição="Mano, viu a Max por ai?"></Contato>
+      <Contato foto={<img className='foto' src='Eleven.png'/>} online={<img className='on' src='pngwing.com.png'/>}  nome="Eleven" descrição="Meu nariz ta sangran... "></Contato>
+      <Contato foto={<img className='foto' src='justin.jfif'/>} online={<img className='on' src='pngwing.com.png'/>}  nome="Dustin" descrição="Ela não vai resistir ao meu sorriso!"></Contato>
 
       
     </div>
