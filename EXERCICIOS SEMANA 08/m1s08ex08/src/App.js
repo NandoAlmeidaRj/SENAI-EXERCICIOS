@@ -8,6 +8,7 @@ function App(props) {
       <Contato foto={<img className='foto1' src='vecsorrindo.jpeg'/>} online={<img className='on' src='pngwing.com.png'/>}  nome="Vecna" descrição="Mano, viu a Max por ai?"></Contato>
       <Contato foto={<img className='foto' src='Eleven.png'/>} online={<img className='on' src='pngwing.com.png'/>}  nome="Eleven" descrição="Meu nariz ta sangran... "></Contato>
       <Contato foto={<img className='foto' src='justin.jfif'/>} online={<img className='on' src='pngwing.com.png'/>}  nome="Dustin" descrição="Ela não vai resistir ao meu sorriso!"></Contato>
+      <Contato foto={<img className='foto' src='justin.jfif'/>} online={<img className='on' src='pngwing.com.png'/>}  nome="Dustin" descrição="Ela não vai resistir ao meu sorriso!"></Contato>
 
       
     </div>

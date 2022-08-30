@@ -1,0 +1,16 @@
+div{
+  max-width: 1600px;
+  
+  display: flex;
+  margin: 10px;
+  flex-wrap: wrap;
+  background: rgb(255,185,248);
+background: linear-gradient(139deg, rgba(255,185,248,0.8603816526610644) 0%, rgba(255,255,255,1) 93%, rgba(255,255,255,1) 100%);
+}
+
+section{
+  border:solid black 1px;
+  text-align: center;
+  padding: 40px;
+ background-color: rgb(255, 255, 255);
+}
