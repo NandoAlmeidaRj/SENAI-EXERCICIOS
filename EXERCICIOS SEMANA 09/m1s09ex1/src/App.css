@@ -1,0 +1,25 @@
+.div1{
+  border-radius: 20px;
+  place-items: center;
+  text-align: center;
+  border: 2px solid black;
+  margin: 30px;
+  padding: 200px;
+  background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+
+}
+
+ 
+
+
+
+h3{
+  border-radius: 20px;
+  place-items: center;
+  text-align: center;
+  border: 2px solid black;
+  margin: 30px;
+  padding: 30px;
+  background-color: rgba(240, 248, 255, 0.678);
+}
