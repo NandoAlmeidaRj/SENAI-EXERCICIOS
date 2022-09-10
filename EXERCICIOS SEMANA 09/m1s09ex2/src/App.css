@@ -1,0 +1,43 @@
+.div1 {
+
+
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+}
+
+section{
+  border-radius: 30px;
+  min-height: 35vh;
+  padding: 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.267);
+
+}
+
+p{
+  color: red;
+  font-size: 20px;
+  margin-top: -20px;
+}
+
+button{
+  font-size: 20px;
+  margin-top: 50px;
+  width: 120px;
+  height: 45px;
+}
+
+input{
+  background-color: rgba(240, 248, 255, 0.459);
+  width: 500px ;
+  height: 80px;
+}
